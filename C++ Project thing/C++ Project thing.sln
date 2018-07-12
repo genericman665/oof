@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ Project thing", "C++ Project thing\C++ Project thing.vcxproj", "{EE0473AE-A687-47AF-B869-B671DC2502E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Debug|x64.ActiveCfg = Debug|x64
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Debug|x64.Build.0 = Debug|x64
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Debug|x86.Build.0 = Debug|Win32
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Release|x64.ActiveCfg = Release|x64
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Release|x64.Build.0 = Release|x64
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Release|x86.ActiveCfg = Release|Win32
+		{EE0473AE-A687-47AF-B869-B671DC2502E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE583081-EA48-4440-A793-0C68B685CEBF}
+	EndGlobalSection
+EndGlobal
